@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ireenkibaya
+- 👋 Hi, I’m  @Ireen Kibaya
 - 👀 I’m interested in data analysis and MicrosoFT NAV
 - 🌱 I’m currently learning  data analysis with python
 - 💞️ I’m looking to collaborate
